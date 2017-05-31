@@ -20,7 +20,7 @@
 
 #### 0, 開発準備
 > 0-1. xcodeで新規プロジェクトを立ち上げる
-<img src="https://raw.githubusercontent.com/iosClassForBeginner/XcodeHowToImage/master/Assets/create_new_project.gif" width="320px">
+![image](https://raw.githubusercontent.com/iosClassForBeginner/XcodeHowToImage/master/Assets/create_new_project.gif)
 
 #### 1, Storyboardで、アプリのデザイン
 > 1-1. main.storyboardを選択し、UI部品から下記を配置します。(ドラッグ&ドロップ)
